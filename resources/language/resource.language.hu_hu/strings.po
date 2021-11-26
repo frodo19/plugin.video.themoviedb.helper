@@ -6,10 +6,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: XBMC-Addons\n"
 "Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
-"POT-Creation-Date: 2014-10-26 17:05+0000\n"
+"POT-Creation-Date: 2021-11-26 17:05+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE\n"
+"Language-Team: Hungarian\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -139,7 +139,7 @@ msgstr ""
 #: /resources/settings.xml
 msgctxt "#32028"
 msgid "Use fanart.tv for widget artwork (increases load times)"
-msgstr ""
+msgstr "Fanat tv képek használata a widgetekhez (megnöveli a betöltési időt)"
 
 #: /resources/settings.xml
 msgctxt "#32029"
@@ -159,57 +159,57 @@ msgstr ""
 #: /resources/settings.xml
 msgctxt "#32032"
 msgid "Download Players"
-msgstr ""
+msgstr "Lejátszók letöltése"
 
 #: /resources/settings.xml
 msgctxt "#32033"
 msgid "Default Players"
-msgstr ""
+msgstr "Alapértelmezett lejátszók"
 
 #: /resources/settings.xml
 msgctxt "#32034"
 msgid "Get watched indicators from Trakt"
-msgstr ""
+msgstr "Nézett jelölés a Traktból"
 
 #: /resources/settings.xml
 msgctxt "#32035"
 msgid "Get tvshow watched episode counts from Trakt"
-msgstr ""
+msgstr "Nézett epizód jelölés a Traktból"
 
 #: /resources/settings.xml
 msgctxt "#32036"
 msgid "Bundled Players"
-msgstr ""
+msgstr "Lejátszó csomag"
 
 #: /resources/settings.xml
 msgctxt "#32037"
 msgid "Use bundled players"
-msgstr ""
+msgstr "Használd a telepített lejátszócsomagot"
 
 #: /resources/settings.xml
 msgctxt "#32038"
 msgid "Get additional details from the local Kodi library database"
-msgstr ""
+msgstr "Kiegészítő infók a Kodi helyi adatbázisból"
 
 #: /resources/settings.xml
 msgctxt "#32039"
 msgid "Kodi Library DB"
-msgstr ""
+msgstr "Kodi adatbázis"
 
 #: /resources/lib/player.py
 msgctxt "#32040"
 msgid "Item not found."
-msgstr ""
+msgstr "Elem nem található"
 
 #: /resources/lib/player.py
 msgctxt "#32041"
 msgid "The plugin returned no results."
-msgstr ""
+msgstr "A pluginon nincs találat"
 
 #: /resources/lib/player.py
 msgctxt "#32042"
 msgid "Choose Action"
-msgstr ""
+msgstr "Akció kiválasztása"
 
 #: /resources/lib/container.py
 msgctxt "#32043"
@@ -219,102 +219,102 @@ msgstr ""
 #: /resources/lib/container.py
 msgctxt "#32044"
 msgid "Enter Search Query"
-msgstr ""
+msgstr "Keresés lekérdezés"
 
 #: /resources/lib/container.py
 msgctxt "#32045"
 msgid "Cache Refresh"
-msgstr ""
+msgstr "Cache frissítése"
 
 #: /resources/lib/container.py
 msgctxt "#32046"
 msgid "Cached details were refreshed"
-msgstr ""
+msgstr "Cache frissítve"
 
 #: /resources/lib/container.py
 msgctxt "#32047"
 msgid "Remove from Trakt Collection"
-msgstr ""
+msgstr "Törlés a Trakt gyűjteményből"
 
 #: /resources/lib/container.py
 msgctxt "#32048"
 msgid "Add to Trakt Collection"
-msgstr ""
+msgstr "Hozzáadás a Trakt gyűjteményhez"
 
 #: /resources/lib/container.py
 msgctxt "#32049"
 msgid "Remove from Trakt Watchlist"
-msgstr ""
+msgstr "Törlés a Trakt lejátszási listából"
 
 #: /resources/lib/container.py
 msgctxt "#32050"
 msgid "Add to Trakt Watchlist"
-msgstr ""
+msgstr "Hozzáadás a Trakt lejátszási listához"
 
 #: /resources/lib/container.py
 msgctxt "#32051"
 msgid "Remove from Trakt Watched History"
-msgstr ""
+msgstr "Törlés a Trakt megnézett listából"
 
 #: /resources/lib/container.py
 msgctxt "#32052"
 msgid "Add to Trakt Watched History"
-msgstr ""
+msgstr "Hozzáadás a Trakt megnézett listához"
 
 #: /resources/lib/container.py
 msgctxt "#32053"
 msgid "Refresh Cache"
-msgstr ""
+msgstr "Cache frissítése"
 
 #: /resources/lib/downloader.py
 msgctxt "#32054"
 msgid "Would you like to clear existing players first?"
-msgstr ""
+msgstr "Törölni szeretné a meglévő lejátszókat? "
 
 #: /resources/lib/downloader.py
 msgctxt "#32055"
 msgid "Authentication Failed."
-msgstr ""
+msgstr "Azonosítási hiba"
 
 #: /resources/lib/downloader.py
 msgctxt "#32056"
 msgid "Either the username or password were invalid. Would you like to try again?"
-msgstr ""
+msgstr "A felhasználónév vagy a jelszó érvénytelen volt. Szeretné újra megpróbálni?"
 
 #: /resources/lib/downloader.py
 msgctxt "#32057"
 msgid "Retry"
-msgstr ""
+msgstr "Ismét"
 
 #: /resources/lib/downloader.py
 msgctxt "#32058"
 msgid "The provided URL is either invalid or inaccesible."
-msgstr ""
+msgstr "A megadott URL érvénytelen vagy nem érhető el."
 
 #: /resources/lib/downloader.py
 msgctxt "#32059"
 msgid "Success!"
-msgstr ""
+msgstr "Sikeres!"
 
 #: /resources/lib/downloader.py
 msgctxt "#32060"
 msgid "files extracted"
-msgstr ""
+msgstr "fájlok kicsomagolva"
 
 #: /resources/lib/player.py
 msgctxt "#32061"
 msgid "Play with"
-msgstr ""
+msgstr "Lejátszás a"
 
 #: /resources/lib/context.py
 msgctxt "#32062"
 msgid "Successfully Added TMDb ID {0} to {1}"
-msgstr ""
+msgstr "TMDb azonosító sikeresen hozzáadva {0} to {1}"
 
 #: /resources/lib/context.py
 msgctxt "#32063"
 msgid "Successfully Removed TMDb ID {0} from {1}"
-msgstr ""
+msgstr "TMDb azonosító sikeresen törölve {0} to {1}"
 
 #: /resources/lib/context.py
 msgctxt "#32064"
@@ -335,47 +335,47 @@ msgstr ""
 #: /resources/settings.xml
 msgctxt "#32066"
 msgid "Debug logging"
-msgstr ""
+msgstr "Debug log"
 
 #: /resources/settings.xml
 msgctxt "#32067"
 msgid "Fuzzy local library matching"
-msgstr ""
+msgstr "Zavaros helyi könyvtári egyezés"
 
 #: /resources/settings.xml
 msgctxt "#32068"
 msgid "Allow fuzzy matches (ignore year) for movies"
-msgstr ""
+msgstr "Zavaros egyezések engedélyezése (év figyelmen kívül hagyása) a filmeknél"
 
 #: /resources/settings.xml
 msgctxt "#32069"
 msgid "Allow fuzzy matches (ignore year) for tvshows"
-msgstr ""
+msgstr "Zavaros egyezések engedélyezése (év figyelmen kívül hagyása) a sorozatoknál"
 
 #: /resources/lib/tmdb.py
 msgctxt "#32070"
 msgid "Male"
-msgstr ""
+msgstr "Férfi"
 
 #: /resources/lib/tmdb.py
 msgctxt "#32071"
 msgid "Female"
-msgstr ""
+msgstr "Nő"
 
 #: /resources/settings.xml
 msgctxt "#32072"
 msgid "Unaired Items"
-msgstr ""
+msgstr "Nem sugárzott elemek"
 
 #: /resources/settings.xml
 msgctxt "#32073"
 msgid "Hide unaired movies"
-msgstr ""
+msgstr "Nem sugárzott elemek elrejtése"
 
 #: /resources/settings.xml
 msgctxt "#32074"
 msgid "Library Integration"
-msgstr ""
+msgstr "Médiatár integráció"
 
 #: /resources/settings.xml
 msgctxt "#32075"
@@ -385,27 +385,27 @@ msgstr ""
 #: /resources/settings.xml
 msgctxt "#32076"
 msgid "Update library after adding items"
-msgstr ""
+msgstr "Médiatár frissítése az elemek hozzáadása után"
 
 #: /resources/settings.xml
 msgctxt "#32077"
 msgid "Ignore folder creation checks"
-msgstr ""
+msgstr "Mappa készítési ellenőrzés figyelmen kívül hagyása"
 
 #: /resources/settings.xml
 msgctxt "#32078"
 msgid "Expand Trakt list limit to 20 items"
-msgstr ""
+msgstr "Trakt lista limit emelése 20 elemre"
 
 #: /resources/settings.xml
 msgctxt "#32079"
 msgid "System Use Only"
-msgstr ""
+msgstr "Rendszer használja"
 
 #: /resources/settings.xml
 msgctxt "#32080"
 msgid "Other"
-msgstr ""
+msgstr "Más"
 
 #: /resources/settings.xml
 msgctxt "#32081"
