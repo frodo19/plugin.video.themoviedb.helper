@@ -304,7 +304,7 @@ msgstr "fájlok kicsomagolva"
 #: /resources/lib/player.py
 msgctxt "#32061"
 msgid "Play with"
-msgstr "Lejátszás a"
+msgstr "Lejátszás vele"
 
 #: /resources/lib/context.py
 msgctxt "#32062"
@@ -410,117 +410,117 @@ msgstr "Más"
 #: /resources/settings.xml
 msgctxt "#32081"
 msgid "Show next page item on widgets (requires skin reload)"
-msgstr ""
+msgstr "Következő oldal elem megjelenítése a widgeten (felszín újraindítás szükséges)"
 
 #: /resources/settings.xml
 msgctxt "#32082"
 msgid "Watchlist sort method"
-msgstr ""
+msgstr "Saját lista rendezési módszer"
 
 #: /resources/settings.xml
 msgctxt "#32083"
 msgid "Accounts"
-msgstr ""
+msgstr "Fiókok"
 
 #: /resources/settings.xml
 msgctxt "#32084"
 msgid "Hide unaired episodes"
-msgstr ""
+msgstr "Nem sugárzott elrejtése"
 
 #: /resources/settings.xml
 msgctxt "#32085"
 msgid "Flatten seasons"
-msgstr ""
+msgstr "Egyesített szezonok"
 
 #: /resources/settings.xml
 msgctxt "#32086"
 msgid "Auto-update library and add new/missing episodes"
-msgstr ""
+msgstr "Médiatár auto frissítése és új/hiányzó részek hozzáadása"
 
 #: /resources/settings.xml
 msgctxt "#32087"
 msgid "Use resolvedURL method for suppressing strm next playlist error"
-msgstr ""
+msgstr "Használd a resolvedURL metódust az strm next lejátszási lista hibájának letiltásához"
 
 #: /resources/settings.xml
 msgctxt "#32088"
 msgid "Navigation"
-msgstr ""
+msgstr "Navigáció"
 
 #: /resources/settings.xml
 msgctxt "#32089"
 msgid "Select Action"
-msgstr ""
+msgstr "Akció kiválasztása"
 
 #: /resources/settings.xml
 msgctxt "#32090"
 msgid "Content"
-msgstr ""
+msgstr "Tartalaom"
 
 #: /resources/settings.xml
 msgctxt "#32091"
 msgid "Special season folders"
-msgstr ""
+msgstr "Speciális szezon mappák"
 
 #: /resources/settings.xml
 msgctxt "#32092"
 msgid "Widgets"
-msgstr ""
+msgstr "Widgetek"
 
 #: /resources/settings.xml
 msgctxt "#32093"
 msgid "Next episodes sort method"
-msgstr ""
+msgstr "Következő részek rendezési módja"
 
 #: /resources/settings.xml
 msgctxt "#32094"
 msgid "Prioritise local files over default player"
-msgstr ""
+msgstr "A helyi fájlok prioritása az alapértelmezett lejátszóval szemben"
 
 #: /resources/lib/traktapi.py
 msgctxt "#32095"
 msgid "Enter the code"
-msgstr ""
+msgstr "Kód megadása"
 
 #: /resources/lib/traktapi.py
 msgctxt "#32096"
 msgid "Go to [B]https://trakt.tv/activate[/B]"
-msgstr ""
+msgstr "Menj a [B]https://trakt.tv/activate[/B]"
 
 #: /resources/lib/traktapi.py
 msgctxt "#32097"
 msgid "Trakt Authentication"
-msgstr ""
+msgstr "Trakt azonosítás"
 
 #: /resources/lib/container.py
 msgctxt "#32098"
 msgid "Exists"
-msgstr ""
+msgstr "Létezik"
 
 #: /resources/lib/container.py
 msgctxt "#32099"
 msgid "A value has already been set for this parameter"
-msgstr ""
+msgstr "Ennek a paraméternek már be van állítva egy érték"
 
 #: /resources/lib/container.py
 msgctxt "#32100"
 msgid "Do you wish to clear the existing items or add more?"
-msgstr ""
+msgstr "Törölni szeretné a meglévő elemeket, vagy továbbiakat szeretne hozzáadni?"
 
 #: /resources/lib/container.py
 msgctxt "#32101"
 msgid "Clear Items"
-msgstr ""
+msgstr "Elemek törlése"
 
 #: /resources/lib/container.py
 msgctxt "#32102"
 msgid "Add Items"
-msgstr ""
+msgstr "Elemek hozzáadása"
 
 #: /resources/lib/container.py
 msgctxt "#32103"
 msgid "No Value Added"
-msgstr ""
+msgstr "Nincs érték hozzáadva"
 
 #: /resources/lib/container.py
 msgctxt "#32104"
@@ -528,151 +528,153 @@ msgid ""
 "TMDb ID for {} not found or none selected.\n"
 "Do you want to add another value?"
 msgstr ""
+"TMDb azonosító {} nem található vagy nincs hozzáadva.\n"
+"Akarsz másik azonosítót hozzáadni?"
 
 #: /resources/lib/container.py
 msgctxt "#32105"
 msgid "Do you want to add another value?"
-msgstr ""
+msgstr "Akarsz másik értéket hozzáadni?"
 
 #: /resources/lib/container.py
 msgctxt "#32106"
 msgid "Added"
-msgstr ""
+msgstr "Hozzáadva"
 
 #: /resources/lib/container.py
 msgctxt "#32107"
 msgid "Set Match Method"
-msgstr ""
+msgstr "Állítsd be az egyeztetési módot"
 
 #: /resources/lib/container.py
 msgctxt "#32108"
 msgid "Choose matching method for parameters with multiple values."
-msgstr ""
+msgstr "Válassz egyezési módszert a többszörös paraméter értékekhez"
 
 #: /resources/lib/container.py
 msgctxt "#32109"
 msgid "Match ANY Value"
-msgstr ""
+msgstr "Bármelyik egyező"
 
 #: /resources/lib/container.py
 msgctxt "#32110"
 msgid "Match ALL Values"
-msgstr ""
+msgstr "Egyezik az összes"
 
 #: /resources/lib/container.py
 msgctxt "#32111"
 msgid "Select Items"
-msgstr ""
+msgstr "Elemek kiválasztása"
 
 #: /resources/lib/container.py
 msgctxt "#32112"
 msgid "Select Genres"
-msgstr ""
+msgstr "Műfajok kiválasztása"
 
 #: /resources/lib/container.py
 msgctxt "#32113"
 msgid "Also accepts X days relative from today in the format T-X or T+X (e.g. T-10 is ten days ago)"
-msgstr ""
+msgstr "A mai naptól számított X napot is elfogadja T-X vagy T+X formátumban (például a T-10 tíz nappal ezelőtt)"
 
 #: /resources/lib/container.py
 msgctxt "#32114"
 msgid "Enter"
-msgstr ""
+msgstr "Belépés"
 
 #: /resources/lib/container.py
 msgctxt "#32115"
 msgid "Company"
-msgstr ""
+msgstr "Vállalat"
 
 #: /resources/lib/container.py
 msgctxt "#32116"
 msgid "Network"
-msgstr ""
+msgstr "Hálózat"
 
 #: /resources/lib/container.py
 msgctxt "#32117"
 msgid "Keyword"
-msgstr ""
+msgstr "Kifejezés"
 
 #: /resources/lib/container.py
 msgctxt "#32118"
 msgid "Person"
-msgstr ""
+msgstr "Személy"
 
 #: /resources/lib/container.py
 msgctxt "#32119"
 msgid "Select Release Types"
-msgstr ""
+msgstr "Válasszd ki a kiadás típusait"
 
 #: /resources/lib/container.py
 msgctxt "#32120"
 msgid "Select Region for Release"
-msgstr ""
+msgstr "Válasszd ki a kiadási régiót"
 
 #: /resources/lib/container.py
 msgctxt "#32121"
 msgid "Clear Search History"
-msgstr ""
+msgstr "Keresési előzmény törlése"
 
 #: /resources/lib/context.py
 msgctxt "#32122"
 msgid "XBMCVFS reports unable to create path"
-msgstr ""
+msgstr "Az XBMCVFS nem tudta létrehozni az elérési utat"
 
 #: /resources/lib/context.py
 msgctxt "#32123"
 msgid "If error persists and the folders are created correctly, please disable folder path creation checking in TMDBHelper settings."
-msgstr ""
+msgstr "Ha a hiba továbbra is fennáll, és a mappák létrehozása megfelelő, kérjük, tiltsd le a mappaútvonal létrehozásának ellenőrzését a TMDBHelper beállításaiban."
 
 #: /resources/lib/context.py
 msgctxt "#32124"
 msgid "Adding"
-msgstr ""
+msgstr "Hozzáadás"
 
 #: /resources/lib/context.py
 msgctxt "#32125"
 msgid "Add Trakt list to Kodi library"
-msgstr ""
+msgstr "Trakt lista hozzáadása a Kodi médiatárhoz?"
 
 #: /resources/lib/context.py
 msgctxt "#32126"
 msgid "Are you sure you want to add this Trakt list to your Kodi library?"
-msgstr ""
+msgstr "Biztosan hozzáadod a Trakt listát a Kodi médiatárhoz?"
 
 #: /resources/lib/context.py
 msgctxt "#32127"
 msgid "by user"
-msgstr ""
+msgstr "felhasználói"
 
 #: /resources/lib/context.py
 msgctxt "#32128"
 msgid "This list contains"
-msgstr ""
+msgstr "Lista tartalma"
 
 #: /resources/lib/context.py
 msgctxt "#32129"
 msgid "items"
-msgstr ""
+msgstr "elemek"
 
 #: /resources/settings.xml
 msgctxt "#32130"
 msgid "Auto-update library at time"
-msgstr ""
+msgstr "Időzített médiatár auto-frissítés"
 
 #: /resources/settings.xml
 msgctxt "#32131"
 msgid "Auto-update library from Trakt list(s)"
-msgstr ""
+msgstr "A médiatár auto-frissítése a Trakt listából"
 
 #: /resources/lib/script.py
 msgctxt "#32132"
 msgid "Do you wish to update the library from the Trakt list(s) now?"
-msgstr ""
+msgstr "Akarod frissíteni a médiatárat a Trakt listából most?"
 
 #: /resources/lib/script.py
 msgctxt "#32133"
 msgid "Select List(s)"
-msgstr ""
+msgstr "Lista kiválasztása"
 
 #: /resources/settings.xml
 msgctxt "#32134"
