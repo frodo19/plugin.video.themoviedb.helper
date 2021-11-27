@@ -871,177 +871,177 @@ msgstr ""
 #: /resources/lib/constants.py
 msgctxt "#32172"
 msgid "People"
-msgstr ""
+msgstr "Emberek"
 
 #: /resources/lib/constants.py
 msgctxt "#32173"
 msgid "Randomised"
-msgstr ""
+msgstr "Véletlenszerű"
 
 #: /resources/lib/constants.py
 msgctxt "#32174"
 msgid "Discover"
-msgstr ""
+msgstr "Felfedezés"
 
 #: /resources/lib/plugin.py
 msgctxt "#32175"
 msgid "Popular"
-msgstr ""
+msgstr "Népszerű"
 
 #: /resources/lib/plugin.py
 msgctxt "#32176"
 msgid "Top Rated"
-msgstr ""
+msgstr "Legmagasabbra értékelt"
 
 #: /resources/lib/plugin.py
 msgctxt "#32177"
 msgid "Upcoming"
-msgstr ""
+msgstr "Megjelenik hamarosan"
 
 #: /resources/lib/plugin.py
 msgctxt "#32178"
 msgid "Trending Today"
-msgstr ""
+msgstr "Trendi ma"
 
 #: /resources/lib/plugin.py
 msgctxt "#32179"
 msgid "Trending This Week"
-msgstr ""
+msgstr "Trendi ezen a héten"
 
 #: /resources/lib/plugin.py
 msgctxt "#32180"
 msgid "In Theatres"
-msgstr ""
+msgstr "A mozikban"
 
 #: /resources/lib/plugin.py
 msgctxt "#32181"
 msgid "Airing Today"
-msgstr ""
+msgstr "Ma sugárzott"
 
 #: /resources/lib/plugin.py
 msgctxt "#32182"
 msgid "Currently Airing"
-msgstr ""
+msgstr "Jelenleg sugárzott"
 
 #: /resources/lib/plugin.py
 msgctxt "#32183"
 msgid "Next Aired Library"
-msgstr ""
+msgstr "Következő sugárzás könyvtár"
 
 #: /resources/lib/plugin.py
 msgctxt "#32184"
 msgid "Highest Revenue"
-msgstr ""
+msgstr "Legmagasabb bevétel"
 
 #: /resources/lib/plugin.py
 msgctxt "#32185"
 msgid "Most Voted"
-msgstr ""
+msgstr "Legtöbb szavazat"
 
 #: /resources/lib/plugin.py
 msgctxt "#32186"
 msgid "All"
-msgstr ""
+msgstr "Mind"
 
 #: /resources/lib/plugin.py
 msgctxt "#32187"
 msgid "Collections"
-msgstr ""
+msgstr "Gyűjtemények"
 
 #: /resources/lib/plugin.py
 msgctxt "#32188"
 msgid "Reviews"
-msgstr ""
+msgstr "Vélemények"
 
 #: /resources/lib/plugin.py
 msgctxt "#32189"
 msgid "TV Networks"
-msgstr ""
+msgstr "TV hálózatok"
 
 #: /resources/lib/plugin.py
 msgctxt "#32190"
 msgid "Movie Studios"
-msgstr ""
+msgstr "Filmstúdiók"
 
 #: /resources/lib/plugin.py
 msgctxt "#32191"
 msgid "Images"
-msgstr ""
+msgstr "Képek"
 
 #: /resources/lib/plugin.py
 msgctxt "#32192"
 msgid "Collection"
-msgstr ""
+msgstr "Gyűjtemény"
 
 #: /resources/lib/plugin.py
 msgctxt "#32193"
 msgid "Watchlist"
-msgstr ""
+msgstr "Saját lista"
 
 #: /resources/lib/plugin.py
 msgctxt "#32194"
 msgid "Your Recently Watched"
-msgstr ""
+msgstr "Utoljára megnézett"
 
 #: /resources/lib/plugin.py
 msgctxt "#32195"
 msgid "Your Most Watched"
-msgstr ""
+msgstr "Legtöbbször megnézted"
 
 #: /resources/lib/plugin.py
 msgctxt "#32196"
 msgid "Your In-Progress"
-msgstr ""
+msgstr "Saját folyamatban levő"
 
 #: /resources/lib/plugin.py
 msgctxt "#32197"
 msgid "Your Next Episodes"
-msgstr ""
+msgstr "Saját következő rész"
 
 #: /resources/lib/plugin.py
 msgctxt "#32198"
 msgid "Recommended For You"
-msgstr ""
+msgstr "Neked ajánlott"
 
 #: /resources/lib/plugin.py
 msgctxt "#32199"
 msgid "Based on Recently Watched"
-msgstr ""
+msgstr "Eddig megnézettek alapján"
 
 #: /resources/lib/plugin.py
 msgctxt "#32200"
 msgid "Based on Most Watched"
-msgstr ""
+msgstr "Legtöbbet nézett alapján"
 
 #: /resources/lib/plugin.py
 msgctxt "#32201"
 msgid "Your"
-msgstr ""
+msgstr "Saját"
 
 #: /resources/lib/plugin.py
 msgctxt "#32202"
 msgid "Airing This Week"
-msgstr ""
+msgstr "Ezen a héten sugárzott"
 
 #: /resources/lib/plugin.py
 msgctxt "#32203"
 msgid "Calendar"
-msgstr ""
+msgstr "Naptár"
 
 #: /resources/lib/plugin.py
 msgctxt "#32204"
 msgid "Trending"
-msgstr ""
+msgstr "Trendi"
 
 #: /resources/lib/plugin.py
 msgctxt "#32205"
 msgid "Most Played"
-msgstr ""
+msgstr "Legtöbbször lejátszott"
 
 #: /resources/lib/plugin.py
 msgctxt "#32206"
 msgid "Anticipated"
-msgstr ""
+msgstr "Várható"
 
 #: /resources/lib/plugin.py
 msgctxt "#32207"
@@ -1051,52 +1051,52 @@ msgstr ""
 #: /resources/lib/plugin.py
 msgctxt "#32208"
 msgid "Trending Lists"
-msgstr ""
+msgstr "Trendi listák"
 
 #: /resources/lib/plugin.py
 msgctxt "#32209"
 msgid "Popular Lists"
-msgstr ""
+msgstr "Népszerű listák"
 
 #: /resources/lib/plugin.py
 msgctxt "#32210"
 msgid "Liked Lists"
-msgstr ""
+msgstr "Lájkolt listák"
 
 #: /resources/lib/plugin.py
 msgctxt "#32211"
 msgid "Your Lists"
-msgstr ""
+msgstr "Saját listák"
 
 #: /resources/lib/traktapi.py
 msgctxt "#32212"
 msgid "Trakt user account logout"
-msgstr ""
+msgstr "Trakt fiókból kijelentkezés"
 
 #: /resources/lib/traktapi.py
 msgctxt "#32213"
 msgid "Do you wish to logout of your Trakt account?"
-msgstr ""
+msgstr "Kijelentkezel a Trakt fiókodból?"
 
 #: /resources/lib/traktapi.py
 msgctxt "#32214"
 msgid "Trakt access token not found"
-msgstr ""
+msgstr "Trakt hozzáférési token nem található"
 
 #: /resources/lib/traktapi.py
 msgctxt "#32215"
 msgid "Logout failed!"
-msgstr ""
+msgstr "Kijelentkezési hiba!"
 
 #: /resources/lib/traktapi.py
 msgctxt "#32216"
 msgid "Successfully logged out of Trakt user account"
-msgstr ""
+msgstr "Kijelentkezve a Trakt fiókból"
 
 #: /resources/lib/script.py
 msgctxt "#32217"
 msgid "No artwork found for {} ID {}"
-msgstr ""
+msgstr "Nem található artwork a {} ID {} -hez"
 
 #: /resources/lib/script.py
 msgctxt "#32218"
@@ -1108,17 +1108,17 @@ msgstr ""
 #: /resources/lib/fanarttv.py
 msgctxt "#32219"
 msgid "Language {} | {} likes | ID {}"
-msgstr ""
+msgstr "Nyelv {} | {} lájkok | ID {}"
 
 #: /resources/lib/script.py
 msgctxt "#32220"
 msgid "Select artwork"
-msgstr ""
+msgstr "Artwork kiválasztása"
 
 #: /resources/lib/script.py
 msgctxt "#32221"
 msgid "Refresh all artwork"
-msgstr ""
+msgstr "Összes artwork frissítése"
 
 #: /resources/lib/listitem.py
 msgctxt "#32222"
@@ -1128,32 +1128,32 @@ msgstr ""
 #: /resources/lib/plugin.py
 msgctxt "#32223"
 msgid "Recommended"
-msgstr ""
+msgstr "Ajálott"
 
 #: /resources/lib/plugin.py
 msgctxt "#32224"
 msgid "Similar"
-msgstr ""
+msgstr "Hasonló"
 
 #: /resources/lib/plugin.py
 msgctxt "#32225"
 msgid "Crew"
-msgstr ""
+msgstr "Csapat"
 
 #: /resources/lib/plugin.py
 msgctxt "#32226"
 msgid "Posters"
-msgstr ""
+msgstr "Poszterek"
 
 #: /resources/lib/plugin.py
 msgctxt "#32227"
 msgid "Cast in Movies"
-msgstr ""
+msgstr "Szereplők a filmekben"
 
 #: /resources/lib/plugin.py
 msgctxt "#32228"
 msgid "Cast in TV Shows"
-msgstr ""
+msgstr "Szereplők a sorozatokban"
 
 #: /resources/lib/plugin.py
 msgctxt "#32229"
@@ -1168,7 +1168,7 @@ msgstr ""
 #: /resources/lib/plugin.py
 msgctxt "#32231"
 msgid "Thumbs"
-msgstr ""
+msgstr "Bélyegképek"
 
 #: /resources/lib/plugin.py
 msgctxt "#32232"
